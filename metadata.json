@@ -1,0 +1,5 @@
+{
+  "name": "QuantAlloc - Regulatory IPO Auditor",
+  "description": "A provably fair IPO allotment system designed for regulatory oversight, featuring cryptographic commitment and bias-free rejection sampling.",
+  "requestFramePermissions": []
+}
